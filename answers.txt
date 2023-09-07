@@ -1,0 +1,4 @@
+What is the difference between a merge and a rebase?
+    Merging essentially combines both the features of its parent commits and preserves
+    the commit history of both parents. Rebasing, however, alters the commit history to make
+    it seem as though the two branches were developed sequentially rather than in parallel.
