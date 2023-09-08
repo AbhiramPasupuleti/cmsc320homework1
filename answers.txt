@@ -1,0 +1,4 @@
+What is a remote repository? 
+    A remote repository is a repository that lives in the cloud that allows for multiple
+    developers to edit and work on a repository at the same time by pulling the remote repository
+    into their local workspaces and then pushing their changes to the remote repository.
